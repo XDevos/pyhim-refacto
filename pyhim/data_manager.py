@@ -1,4 +1,5 @@
-"""Manage the data reading and writing, checks also existence and consistency."""
+"""Manage the data reading and writing, checks also existence and consistency.
+"""
 
 
 import os
