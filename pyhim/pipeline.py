@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Schedules successive executions of features according to run arguments and parallelization option."""
+"""Schedules successive executions of features according to run arguments and parallelization option.
+"""
 
 
 import run_args
